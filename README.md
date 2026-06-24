@@ -1,4 +1,6 @@
 ## Repo Structure
+
+```bash
 project/
 ├── app/                          # Application layer
 │   ├── inc/
